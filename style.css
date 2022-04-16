@@ -1,0 +1,46 @@
+body{background-image: url(background2.jpg)}
+#box{
+  background-color: #FFE4B5;
+  width: 900px;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  paddign-right: 20px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #1F618D;
+  margin: 50px:
+  float: center;}
+
+.h1{color: #2E86C1;
+   text-align: center;
+   font-family: Georgia;
+   font-size: 20pt;
+   text-decoration: underline;
+   font-weight: bold;}
+
+.one{color: #D2691E;
+   text-align: left;
+   font-family: Georgia;
+   font-size: 14pt;}
+
+.two{color: #515F6C;
+   text-align: left;
+   font-family: Georgia;
+   font-size: 14pt;
+   font-weight: bold;}
+
+.three{color: white;
+   text-align: left;
+   font-family: Georgia;
+   font-size: 14pt;
+   font-weight: bold;}
+
+.four{color: green;
+   text-align: left;
+   font-family: Georgia;
+   font-size: 14pt;}
+
+span{color: red;
+text-decoration: underline;}
